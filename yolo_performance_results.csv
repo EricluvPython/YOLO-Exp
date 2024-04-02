@@ -1,0 +1,19 @@
+Video,Scene Complexity,Resolution Width,Resolution Height,Frame Rate,Inference Time
+low_complexity_video.mp4,Low,640,360,30,0.30669282631552897
+low_complexity_video.mp4,Low,640,360,60,0.3074092160852462
+low_complexity_video.mp4,Low,1280,720,30,0.3069136463916364
+low_complexity_video.mp4,Low,1280,720,60,0.3069008977919663
+low_complexity_video.mp4,Low,1920,1080,30,0.3062108411002405
+low_complexity_video.mp4,Low,1920,1080,60,0.306444773968962
+medium_complexity_video.mp4,Medium,640,360,30,0.3062926100701401
+medium_complexity_video.mp4,Medium,640,360,60,0.3071778734730933
+medium_complexity_video.mp4,Medium,1280,720,30,0.30699969573342123
+medium_complexity_video.mp4,Medium,1280,720,60,0.3070158044291284
+medium_complexity_video.mp4,Medium,1920,1080,30,0.30762096513738285
+medium_complexity_video.mp4,Medium,1920,1080,60,0.3071055548178717
+high_complexity_video.mp4,High,640,360,30,0.307172256430196
+high_complexity_video.mp4,High,640,360,60,0.30807619417707127
+high_complexity_video.mp4,High,1280,720,30,0.30723812913647586
+high_complexity_video.mp4,High,1280,720,60,0.30730909016465896
+high_complexity_video.mp4,High,1920,1080,30,0.3068177391210368
+high_complexity_video.mp4,High,1920,1080,60,0.3077112541297557
